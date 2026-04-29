@@ -1,0 +1,31 @@
+Pensamento Computacional
+Gabriel Eustáquio Ribeiro da Silva - 42957613 
+
+Att. Controle de Acesso à Sala de Aula
+
+O algoritmo confere se o nome do aluno ta na lista
+se estives ele aprova a entrada, se não estiver ele
+nega a entrada e exibe uma mensagem.
+
+Início
+
+    Definir LISTA_OFICIAL 
+    Definir FILA_DE_ALUNOS 
+    Definir POSIÇÃO <- 1
+
+    ENQUANTO POSIÇÃO <= tamanho(FILA_DE_ALUNOS) FAÇA
+
+        ALUNO_ATUAL <- FILA_DE_ALUNOS[POSIÇÃO]
+
+        SE ALUNO_ATUAL está em LISTA_OFICIAL ENTÃO
+            Exibir "Entrada aceita para " + ALUNO_ATUAL
+        SENÃO
+            Exibir "Entrada negada. Nome não encontrado na lista."
+        FIM_SE
+
+        POSIÇÃO <- POSIÇÃO + 1
+
+    FIM_ENQUANTO
+
+Fim
+
