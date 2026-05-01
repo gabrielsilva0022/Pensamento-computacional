@@ -34,3 +34,4 @@ INICIO Algoritmo TrajetoTrabalhoMultiplo
     caminhar_para_empresa()
     exibir_mensagem("Deslocamento concluído. Bom turno!")
 FIM Algoritmo
+ 
