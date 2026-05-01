@@ -28,3 +28,4 @@ O passo a passo exaustivo do usuário, sem filtros:
 13. Repetir o processo de espera e embarque para o ônibus da Linha 3.
 14. Solicitar a parada apertando o botão quando avistar o prédio do trabalho.
 15. Descer do ônibus e caminhar até a portaria da empresa.
+ 
