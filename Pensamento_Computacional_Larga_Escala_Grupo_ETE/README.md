@@ -1,7 +1,7 @@
 # Projeto – Pensamento Computacional para Sistemas de Larga Escala #
-# Arthur Pereira Vale - 42875366
-# Gabriel Eustáquio Ribeiro da Silva - 42957613
-# Arthur de Carvalho Alves - 42365082
+#  Gabriel Eustáquio - 42957613 - https://github.com/gabrielsilva0022/Pensamento-computacional.git
+#  Arthur Pereira Vale - 42875366 - https://github.com/ArthurP-tech/Atividades-Pensamento-Computacional-
+#  ARTHUR DE CARVALHO ALVES - 42365082 - https://github.com/ArthurCarValho0001/PensamentoComputacional
 
 
 # Sistema Proposto #
