@@ -1,6 +1,8 @@
 # Pensamento Computacional: A Arte da Abstração
 
-# Aluno: Gabriel Eustáquio - 42957613
+#  Gabriel Eustáquio - 42957613 - https://github.com/gabrielsilva0022/Pensamento-computacional.git
+#  Arthur Pereira Vale - 42875366 - https://github.com/ArthurP-tech/Atividades-Pensamento-Computacional-
+#  ARTHUR DE CARVALHO ALVES - 42365082 - https://github.com/ArthurCarValho0001/PensamentoComputacional
 
 **Contexto da Atividade:**
 O objetivo deste repositório é aplicar os conceitos de abstração computacional a uma situação complexa do mundo real, filtrando o caos e chegando a um algoritmo estruturado.
